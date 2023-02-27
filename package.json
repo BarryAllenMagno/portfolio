@@ -53,3 +53,11 @@
     "gh-pages": "^5.0.0"
   }
 }
+
+// git add .
+// git commit -m "message"
+// git fetch origin main:tmp
+// git rebase tmp
+// git push
+// npm run deploy
+
