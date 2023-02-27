@@ -1,3 +1,2 @@
-#Acces through this link
-
+ACCESS THROUGH THIS LINK:
 https://barryallenmagno.github.io/portfolio/
