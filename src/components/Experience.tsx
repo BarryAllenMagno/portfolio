@@ -19,7 +19,7 @@ export default function Experience() {
                         <Box mx={['10%', '15%', '15%', '15%',]} my={'45'} p={'30px'} w={["80%", "70%", "70%", "70%",]} borderRadius={'10px'} boxShadow='0 3px 10px rgb(0 0 0 / 0.2)' >
                             <Text fontWeight={'semibold'} fontSize={['normal', 'normal', '2xl', '2xl']} >Intern Frontend Developer - Deal and Do Software Development Services</Text>
                             <Text fontSize={['normal', 'normal', '2xl', '2xl']} fontWeight={'thin'} m={3} >Feb 2023 - Mar 2023</Text>
-                            <Text fontSize={['normal', 'normal', '2xl', '2xl']} fontWeight={'thin'}>Responsible for building website design</Text>
+                            <Text fontSize={['normal', 'normal', '2xl', '2xl']} fontWeight={'thin'}>Responsible for developing new user-facing features, determining the structure and design of web pages, building reusable codes, optimizing page loading times, and using a variety of markup languages to create the web pages.</Text>
                         </Box>
 
                         <Box mx={['10%', '15%', '15%', '15%',]} my={'45'} p={'30px'} w={["80%", "70%", "70%", "70%",]} borderRadius={'10px'} boxShadow='0 3px 10px rgb(0 0 0 / 0.2)' >
