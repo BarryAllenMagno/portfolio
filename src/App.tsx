@@ -25,3 +25,11 @@ function App() {
 }
 
 export default App;
+
+
+// git add .
+// git commit -m "message"
+// git fetch origin main:tmp
+// git rebase tmp
+// git push
+// npm run deploy
