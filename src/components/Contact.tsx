@@ -37,7 +37,7 @@ export default function Contact() {
                             </Button>
                         </Link>
                     </Box>
-                    <Text color={'gray'} fontWeight={'thin'} mt='30' >barrymagno7@gmail.com</Text>
+                    <Text color={'gray'} fontWeight={'thin'} mt='30' >barrymagno7@gmail.comm</Text>
                     <Text color={'gray'} fontWeight={'thin'} >Copyright © 2023. Created by Barry Allen Magno</Text>
                     <Button mt='30' onClick={_scrollTop}>
                         <FaArrowUp />
